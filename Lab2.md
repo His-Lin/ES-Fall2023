@@ -14,3 +14,32 @@ https://github.com/His-Lin/ES-Fall2023/assets/144580635/6a4e75b8-1b7d-45a6-9ad3-
 
 ![lab2-1](https://github.com/His-Lin/ES-Fall2023/assets/144580635/21c9ab98-511f-43bd-9f04-3135a6b19ff5)
 
+## 程式碼
+
+// C++ code
+//
+/*
+  This program blinks pin 13 of the Arduino (the
+  built-in LED)
+*/
+
+void setup()
+{
+  pinMode(13, OUTPUT);
+  pinMode(10, OUTPUT);
+  pinMode(7, OUTPUT);
+}
+
+void loop()
+{
+  // turn the LED on (HIGH is the voltage level)
+  digitalWrite(13, HIGH);
+  digitalWrite(10, HIGH);
+  digitalWrite(7, HIGH);
+  delay(500); // Wait for 1000 millisecond(s)
+  // turn the LED off by making the voltage LOW
+  digitalWrite(13, LOW);
+  digitalWrite(10, LOW);
+  digitalWrite(7, LOW);
+  delay(500); // Wait for 1000 millisecond(s)
+}
