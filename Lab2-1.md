@@ -9,3 +9,22 @@
 https://github.com/His-Lin/ES-Fall2023/assets/144580635/9aaa59bd-f6b6-444c-9db0-a31f61b269fc
 
 ##程式碼
+````c
+int brightness = 0;
+
+void setup()
+{
+  pinMode(9, OUTPUT);
+}
+
+void loop()
+{
+  for (brightness = 0; brightness <= 255; brightness += 5) {
+    analogWrite(9, brightness);
+    delay(60); // Wait for 30 millisecond(s)
+  }
+  for (brightness = 255; brightness >= 0; brightness -= 5) {
+    analogWrite(9, brightness);
+    delay(60); // Wait for 30 millisecond(s)
+  }
+}
