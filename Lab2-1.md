@@ -8,7 +8,7 @@
 ## 影片
 https://github.com/His-Lin/ES-Fall2023/assets/144580635/9aaa59bd-f6b6-444c-9db0-a31f61b269fc
 
-##程式碼
+## 程式碼
 ````c
 int brightness = 0;
 
