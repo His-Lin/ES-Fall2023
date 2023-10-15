@@ -2,37 +2,15 @@
 
 ## 電路圖
 
-![image](https://github.com/His-Lin/ES-Fall2023/assets/144580635/87623d09-f971-42d0-85da-d8732938acd2)
+![image](https://github.com/His-Lin/ES-Fall2023/assets/144580635/3863128b-e7c4-48dc-bc6d-84a94efbcc3f)
 
 ## 影片
 
-https://github.com/His-Lin/ES-Fall2023/assets/144580635/e4d5a8c1-a043-4c62-9da5-776a26c55525
+https://github.com/His-Lin/ES-Fall2023/assets/144580635/398b9cad-e2bb-41fc-bc66-2d6d7a770572
 
 ## 程式碼
 
 ````c
-// C++ code
-//
-/*
-  Ping))) Sensor
-
-  This sketch reads a PING))) ultrasonic
-  rangefinder and returns the distance to the
-  closest object in range. To do this, it sends a
-  pulse to the sensor to initiate a reading, then
-  listens for a pulse to return.  The length of
-  the returning pulse is proportional to the
-  distance of the object from the sensor.
-
-  The circuit:
-   * +V connection of the PING))) attached to +5V
-   * GND connection attached to ground
-   * SIG connection attached to digital pin 7
-
-  http://www.arduino.cc/en/Tutorial/Ping
-
-  This example code is in the public domain.
-*/
 
 int inches = 0;
 
