@@ -1,11 +1,11 @@
 # 七段顯示器, LCD 顯示器 + 超音波感測器 (2W)
 
+## 電路圖
+![image](https://github.com/His-Lin/ES-Fall2023/assets/144580635/1a2ff12a-7e89-43bd-9c2e-555dd2ca2731)
+
 ## 影片
 
 https://github.com/His-Lin/ES-Fall2023/assets/144580635/89d4ae4a-3fe3-416e-a1a5-39397e5f17c8
-
-## 圖片
-![image](https://github.com/His-Lin/ES-Fall2023/assets/144580635/1a2ff12a-7e89-43bd-9c2e-555dd2ca2731)
 
 ## 程式碼
 
