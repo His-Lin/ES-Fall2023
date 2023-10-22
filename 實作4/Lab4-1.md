@@ -1,4 +1,4 @@
-# 七段顯示器, LCD 顯示器 + 超音波感測器 (2W)
+# Lab4-1 七段顯示器, LCD 顯示器 + 超音波感測器 (2W)
 
 ## 電路圖
 ![image](https://github.com/His-Lin/ES-Fall2023/assets/144580635/1a2ff12a-7e89-43bd-9c2e-555dd2ca2731)
