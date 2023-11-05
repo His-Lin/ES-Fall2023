@@ -9,8 +9,7 @@ https://github.com/His-Lin/ES-Fall2023/assets/144580635/308d7acb-cf9a-446c-bfb9-
 
 ## 程式碼
 ````C
-// C++ code
-//
+
 #include <Servo.h>
 
 int pos = 0;
