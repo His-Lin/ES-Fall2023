@@ -10,7 +10,6 @@ https://github.com/His-Lin/ES-Fall2023/assets/144580635/b180975a-c8b5-4331-a954-
 
 ## 程式碼
 ````C
-// For Embedded System course, VNU, Fall 2021 
 
 #include <Keypad.h>
 #include <LiquidCrystal.h>
