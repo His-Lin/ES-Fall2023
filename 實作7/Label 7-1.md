@@ -14,7 +14,7 @@
 ![image](https://github.com/His-Lin/ES-Fall2023/assets/144580635/da6acb9f-4bed-4ae5-a84e-3c0a9e4e9f5b)
 
 ### 程式碼
-‵‵‵‵c
+````c
 name = "His-Lin"
 print(name)
 
