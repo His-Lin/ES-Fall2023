@@ -7,4 +7,5 @@
 ### 圖片
 
 ![image](https://github.com/His-Lin/ES-Fall2023/assets/144580635/801dad9f-9e19-4c5d-b92f-9b835be34e9e)
-
+## Lab 7-2 建立我們的第二個Colab Notebook (Filename: 十分鐘學會Python.ipynb), 開始十分鐘學會Python囉
+![image](https://github.com/His-Lin/ES-Fall2023/assets/144580635/7d88e644-778f-4ed7-a17b-96a40caa758e)
