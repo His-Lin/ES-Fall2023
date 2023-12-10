@@ -5,3 +5,5 @@
 https://github.com/Grace-TA/ES-Fall2021
 
 ![image](https://github.com/His-Lin/ES-Fall2023/assets/144580635/28908983-b2da-44a6-b911-4e1a849997c9)
+
+https://gogetsecure.com/wp-content/uploads/2022/02/What-Is-Machine-Learning-1024x512.jpg
