@@ -4,6 +4,6 @@
 
 https://github.com/Grace-TA/ES-Fall2021
 
-![image](https://github.com/His-Lin/ES-Fall2023/assets/144580635/28908983-b2da-44a6-b911-4e1a849997c9)
+
 
 ![image](https://github.com/His-Lin/ES-Fall2023/assets/144580635/da123925-c225-4701-a1e9-c9615c609073)
